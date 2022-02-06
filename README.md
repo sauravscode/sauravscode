@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sauravscode
-- 👀 I’m interested in AI and development using python.
-- 🌱 I’m currently learning Machine Learning on AWS.
+- 👀 I’m interested in Web Development, AI and Blockchain.
+- 🌱 I’m currently learning Web Technologies(HTML, CSS, JavaScript, Node, Express).
 
 <!---
 sauravscode/sauravscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
